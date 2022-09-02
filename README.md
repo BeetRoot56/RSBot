@@ -1,0 +1,2 @@
+# RSBot
+Python Runescape Bot
